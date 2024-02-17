@@ -1,0 +1,12 @@
+F:\Job-programing\Taav Sys Course\TAAV_Tests\Final\FootsalTeam\FootsalTeam\FootsalTeam.Contract\bin\Debug\net6.0\FootsalTeam.Contract.deps.json
+F:\Job-programing\Taav Sys Course\TAAV_Tests\Final\FootsalTeam\FootsalTeam\FootsalTeam.Contract\bin\Debug\net6.0\FootsalTeam.Contract.dll
+F:\Job-programing\Taav Sys Course\TAAV_Tests\Final\FootsalTeam\FootsalTeam\FootsalTeam.Contract\bin\Debug\net6.0\FootsalTeam.Contract.pdb
+F:\Job-programing\Taav Sys Course\TAAV_Tests\Final\FootsalTeam\FootsalTeam\FootsalTeam.Contract\obj\Debug\net6.0\FootsalTeam.Contract.csproj.AssemblyReference.cache
+F:\Job-programing\Taav Sys Course\TAAV_Tests\Final\FootsalTeam\FootsalTeam\FootsalTeam.Contract\obj\Debug\net6.0\FootsalTeam.Contract.GeneratedMSBuildEditorConfig.editorconfig
+F:\Job-programing\Taav Sys Course\TAAV_Tests\Final\FootsalTeam\FootsalTeam\FootsalTeam.Contract\obj\Debug\net6.0\FootsalTeam.Contract.AssemblyInfoInputs.cache
+F:\Job-programing\Taav Sys Course\TAAV_Tests\Final\FootsalTeam\FootsalTeam\FootsalTeam.Contract\obj\Debug\net6.0\FootsalTeam.Contract.AssemblyInfo.cs
+F:\Job-programing\Taav Sys Course\TAAV_Tests\Final\FootsalTeam\FootsalTeam\FootsalTeam.Contract\obj\Debug\net6.0\FootsalTeam.Contract.csproj.CoreCompileInputs.cache
+F:\Job-programing\Taav Sys Course\TAAV_Tests\Final\FootsalTeam\FootsalTeam\FootsalTeam.Contract\obj\Debug\net6.0\FootsalTeam.Contract.dll
+F:\Job-programing\Taav Sys Course\TAAV_Tests\Final\FootsalTeam\FootsalTeam\FootsalTeam.Contract\obj\Debug\net6.0\refint\FootsalTeam.Contract.dll
+F:\Job-programing\Taav Sys Course\TAAV_Tests\Final\FootsalTeam\FootsalTeam\FootsalTeam.Contract\obj\Debug\net6.0\FootsalTeam.Contract.pdb
+F:\Job-programing\Taav Sys Course\TAAV_Tests\Final\FootsalTeam\FootsalTeam\FootsalTeam.Contract\obj\Debug\net6.0\ref\FootsalTeam.Contract.dll

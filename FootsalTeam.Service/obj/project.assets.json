@@ -1,0 +1,116 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "FootsalTeam.Contract/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/FootsalTeam.Contract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FootsalTeam.Contract.dll": {}
+        }
+      },
+      "FootsalTeam.Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/FootsalTeam.Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FootsalTeam.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FootsalTeam.Contract/1.0.0": {
+      "type": "project",
+      "path": "../FootsalTeam.Contract/FootsalTeam.Contract.csproj",
+      "msbuildProject": "../FootsalTeam.Contract/FootsalTeam.Contract.csproj"
+    },
+    "FootsalTeam.Entity/1.0.0": {
+      "type": "project",
+      "path": "../FootsalTeam.Entity/FootsalTeam.Entity.csproj",
+      "msbuildProject": "../FootsalTeam.Entity/FootsalTeam.Entity.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "FootsalTeam.Contract >= 1.0.0",
+      "FootsalTeam.Entity >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Saeed\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "F:\\Job-programing\\Taav Sys Course\\TAAV_Tests\\Final\\FootsalTeam\\FootsalTeam\\FootsalTeam.Service\\FootsalTeam.Service.csproj",
+      "projectName": "FootsalTeam.Service",
+      "projectPath": "F:\\Job-programing\\Taav Sys Course\\TAAV_Tests\\Final\\FootsalTeam\\FootsalTeam\\FootsalTeam.Service\\FootsalTeam.Service.csproj",
+      "packagesPath": "C:\\Users\\Saeed\\.nuget\\packages\\",
+      "outputPath": "F:\\Job-programing\\Taav Sys Course\\TAAV_Tests\\Final\\FootsalTeam\\FootsalTeam\\FootsalTeam.Service\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Saeed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "F:\\Job-programing\\Taav Sys Course\\TAAV_Tests\\Final\\FootsalTeam\\FootsalTeam\\FootsalTeam.Contract\\FootsalTeam.Contract.csproj": {
+              "projectPath": "F:\\Job-programing\\Taav Sys Course\\TAAV_Tests\\Final\\FootsalTeam\\FootsalTeam\\FootsalTeam.Contract\\FootsalTeam.Contract.csproj"
+            },
+            "F:\\Job-programing\\Taav Sys Course\\TAAV_Tests\\Final\\FootsalTeam\\FootsalTeam\\FootsalTeam.Entity\\FootsalTeam.Entity.csproj": {
+              "projectPath": "F:\\Job-programing\\Taav Sys Course\\TAAV_Tests\\Final\\FootsalTeam\\FootsalTeam\\FootsalTeam.Entity\\FootsalTeam.Entity.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.411\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

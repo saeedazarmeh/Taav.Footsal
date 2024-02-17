@@ -1,0 +1,17 @@
+F:\Job-programing\Taav Sys Course\TAAV_Tests\Final\FootsalTeam\FootsalTeam\FootsalTeam.Service\bin\Debug\net6.0\FootsalTeam.Service.deps.json
+F:\Job-programing\Taav Sys Course\TAAV_Tests\Final\FootsalTeam\FootsalTeam\FootsalTeam.Service\bin\Debug\net6.0\FootsalTeam.Service.dll
+F:\Job-programing\Taav Sys Course\TAAV_Tests\Final\FootsalTeam\FootsalTeam\FootsalTeam.Service\bin\Debug\net6.0\FootsalTeam.Service.pdb
+F:\Job-programing\Taav Sys Course\TAAV_Tests\Final\FootsalTeam\FootsalTeam\FootsalTeam.Service\bin\Debug\net6.0\FootsalTeam.Contract.dll
+F:\Job-programing\Taav Sys Course\TAAV_Tests\Final\FootsalTeam\FootsalTeam\FootsalTeam.Service\bin\Debug\net6.0\FootsalTeam.Entity.dll
+F:\Job-programing\Taav Sys Course\TAAV_Tests\Final\FootsalTeam\FootsalTeam\FootsalTeam.Service\bin\Debug\net6.0\FootsalTeam.Contract.pdb
+F:\Job-programing\Taav Sys Course\TAAV_Tests\Final\FootsalTeam\FootsalTeam\FootsalTeam.Service\bin\Debug\net6.0\FootsalTeam.Entity.pdb
+F:\Job-programing\Taav Sys Course\TAAV_Tests\Final\FootsalTeam\FootsalTeam\FootsalTeam.Service\obj\Debug\net6.0\FootsalTeam.Service.csproj.AssemblyReference.cache
+F:\Job-programing\Taav Sys Course\TAAV_Tests\Final\FootsalTeam\FootsalTeam\FootsalTeam.Service\obj\Debug\net6.0\FootsalTeam.Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\Job-programing\Taav Sys Course\TAAV_Tests\Final\FootsalTeam\FootsalTeam\FootsalTeam.Service\obj\Debug\net6.0\FootsalTeam.Service.AssemblyInfoInputs.cache
+F:\Job-programing\Taav Sys Course\TAAV_Tests\Final\FootsalTeam\FootsalTeam\FootsalTeam.Service\obj\Debug\net6.0\FootsalTeam.Service.AssemblyInfo.cs
+F:\Job-programing\Taav Sys Course\TAAV_Tests\Final\FootsalTeam\FootsalTeam\FootsalTeam.Service\obj\Debug\net6.0\FootsalTeam.Service.csproj.CoreCompileInputs.cache
+F:\Job-programing\Taav Sys Course\TAAV_Tests\Final\FootsalTeam\FootsalTeam\FootsalTeam.Service\obj\Debug\net6.0\FootsalTeam.Service.csproj.CopyComplete
+F:\Job-programing\Taav Sys Course\TAAV_Tests\Final\FootsalTeam\FootsalTeam\FootsalTeam.Service\obj\Debug\net6.0\FootsalTeam.Service.dll
+F:\Job-programing\Taav Sys Course\TAAV_Tests\Final\FootsalTeam\FootsalTeam\FootsalTeam.Service\obj\Debug\net6.0\refint\FootsalTeam.Service.dll
+F:\Job-programing\Taav Sys Course\TAAV_Tests\Final\FootsalTeam\FootsalTeam\FootsalTeam.Service\obj\Debug\net6.0\FootsalTeam.Service.pdb
+F:\Job-programing\Taav Sys Course\TAAV_Tests\Final\FootsalTeam\FootsalTeam\FootsalTeam.Service\obj\Debug\net6.0\ref\FootsalTeam.Service.dll

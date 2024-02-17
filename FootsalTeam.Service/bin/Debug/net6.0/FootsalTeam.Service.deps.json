@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FootsalTeam.Service/1.0.0": {
+        "dependencies": {
+          "FootsalTeam.Contract": "1.0.0",
+          "FootsalTeam.Entity": "1.0.0"
+        },
+        "runtime": {
+          "FootsalTeam.Service.dll": {}
+        }
+      },
+      "FootsalTeam.Contract/1.0.0": {
+        "runtime": {
+          "FootsalTeam.Contract.dll": {}
+        }
+      },
+      "FootsalTeam.Entity/1.0.0": {
+        "runtime": {
+          "FootsalTeam.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FootsalTeam.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FootsalTeam.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FootsalTeam.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
